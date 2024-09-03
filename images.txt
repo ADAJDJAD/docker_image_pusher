@@ -1,4 +1,4 @@
 alpine
-redis
-ubantu
-nginx
+redis:6.0
+ubuntu:20.04
+nginx:1.20
