@@ -1,2 +1,5 @@
 alpine
-redis
+redis:6.0
+ubantu:20.04
+nginx:1.20
+python::alpine3.19
