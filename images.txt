@@ -2,4 +2,5 @@ alpine
 redis:6.0
 ubuntu:20.04
 nginx:1.20
-rocketmq
+apache/rocketmq:5.1.0
+
